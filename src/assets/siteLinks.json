@@ -1,5 +1,10 @@
 [
   {
+    "icon": "Compass",
+    "name": "导航",
+    "link": "https://web.mozui.cn"
+  },
+  {
     "icon": "Blog",
     "name": "博客",
     "link": "https://blog.mozui.cn/"
@@ -15,12 +20,7 @@
     "link": "https://music.mozui.cn:8888/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://web.mozui.cn"
-  },
-  {
-    "icon": "Movie",
+    "icon": "Film",
     "name": "影视",
     "link": "https://movie.mozui.cn:8888"
   },
