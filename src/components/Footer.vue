@@ -8,11 +8,11 @@
           <span v-if="startYear < fullYear"
             class="site-start">
             {{ startYear }}
-            -
+            ❤
           </span>
           {{ fullYear }}
           <a :href="siteUrl">{{ siteAuthor }}</a>
-        </span>
+          </span>
 //        <!-- 以下信息请不要修改哦 -->
 //        <span class="hidden">
 //          &amp;&nbsp;Made&nbsp;by ❤ Mozui
@@ -26,7 +26,7 @@
 //        <a v-if="siteIcp" href="https://beian.miit.gov.cn" target="_blank">
 //          {{ siteIcp }}
 //         </a>
-//        </span>
+        </span>
       </div>
       <div v-else class="lrc">
         <Transition name="fade" mode="out-in">
