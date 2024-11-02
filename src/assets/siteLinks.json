@@ -12,12 +12,12 @@
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://zfile.mozui.cn:8888/"
+    "link": "https://yp.otzo.com/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.mozui.cn:8888/"
+    "link": "https://hifi.otzo.com/"
   },
   {
     "icon": "Film",
@@ -27,6 +27,6 @@
   {
     "icon": "LaptopCode",
     "name": "更多",
-    "link": "https://status.mozui.cn/status/free"
+    "link": "https://status.mozui.cn/"
   }
 ]
